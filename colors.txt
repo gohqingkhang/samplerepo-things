@@ -3,3 +3,6 @@ colors
 blue
 red
 white
+black
+red
+white
