@@ -1,4 +1,9 @@
+fruits
+
 apples
 berries
 cherries
 mangoes
+orange
+kiwi
+papaya
